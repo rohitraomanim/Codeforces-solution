@@ -38,7 +38,7 @@ Files are named using the problem number and short title, e.g.:
 | Jul 30 | A - A+B Again? | ✅ Accepted |
 | Jul 31 | A - Love Story | ✅ Accepted |
 
-**Total solved: 19**
+**Total solved: 20**
 
 ## Notes
 - Language: Java 21
