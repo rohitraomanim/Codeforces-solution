@@ -38,8 +38,9 @@ Files are named using the problem number and short title, e.g.:
 | Jul 30 | A - A+B Again? | ✅ Accepted |
 | Jul 31 | A - Love Story | ✅ Accepted |
 | Aug 1 | A - Stair, Peak, or Neither? | ✅ Accepted |
+| Aug 2 | A - Vlad and The Best Of Five | ✅ Accepted |
 
-**Total solved: 21**
+**Total solved: 22**
 
 ## Notes
 - Language: Java 21
