@@ -41,8 +41,9 @@ Files are named using the problem number and short title, e.g.:
 | Aug 2 | A - Vlad and The Best Of Five | ✅ Accepted |
 | Aug 3 | A - Bear and Big Brother | ✅ Accepted |
 | Aug 4 | A - Vanya and Fence | ✅ Accepted |
+| Aug 4 | A - Riptide | ✅ Accepted |
 
-**Total solved: 24**
+**Total solved: 25**
 
 ## Notes
 - Language: Java 21
