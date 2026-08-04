@@ -40,8 +40,9 @@ Files are named using the problem number and short title, e.g.:
 | Aug 1 | A - Stair, Peak, or Neither? | ✅ Accepted |
 | Aug 2 | A - Vlad and The Best Of Five | ✅ Accepted |
 | Aug 3 | A - Bear and Big Brother | ✅ Accepted |
+| Aug 4 | A - Vanya and Fence | ✅ Accepted |
 
-**Total solved: 22**
+**Total solved: 24**
 
 ## Notes
 - Language: Java 21
