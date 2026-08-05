@@ -42,8 +42,9 @@ Files are named using the problem number and short title, e.g.:
 | Aug 3 | A - Bear and Big Brother | ✅ Accepted |
 | Aug 4 | A - Vanya and Fence | ✅ Accepted |
 | Aug 4 | A - Riptide | ✅ Accepted |
+| Aug 5 | A - In Search of an Easy Problem | ✅ Accepted |
 
-**Total solved: 25**
+**Total solved: 26**
 
 ## Notes
 - Language: Java 21
