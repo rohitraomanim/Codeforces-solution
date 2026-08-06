@@ -43,8 +43,9 @@ Files are named using the problem number and short title, e.g.:
 | Aug 4 | A - Vanya and Fence | ✅ Accepted |
 | Aug 4 | A - Riptide | ✅ Accepted |
 | Aug 5 | A - In Search of an Easy Problem | ✅ Accepted |
+| Aug 6 | A - Lucky? | ✅ Accepted |
 
-**Total solved: 26**
+**Total solved: 27**
 
 ## Notes
 - Language: Java 21
