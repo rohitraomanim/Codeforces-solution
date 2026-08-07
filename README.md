@@ -44,8 +44,9 @@ Files are named using the problem number and short title, e.g.:
 | Aug 4 | A - Riptide | ✅ Accepted |
 | Aug 5 | A - In Search of an Easy Problem | ✅ Accepted |
 | Aug 6 | A - Lucky? | ✅ Accepted |
+| Aug 7 | A - Wrong Subtraction | ✅ Accepted |
 
-**Total solved: 27**
+**Total solved: 28**
 
 ## Notes
 - Language: Java 21
