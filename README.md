@@ -46,8 +46,9 @@ Files are named using the problem number and short title, e.g.:
 | Aug 6 | A - Lucky? | ✅ Accepted |
 | Aug 7 | A - Wrong Subtraction | ✅ Accepted |
 | Aug 8 | A - Mishka and Game | ✅ Accepted |
+| Aug 9 | A - Creating Words | ✅ Accepted |
 
-**Total solved: 29**
+**Total solved: 30**
 
 ## Notes
 - Language: Java 21
