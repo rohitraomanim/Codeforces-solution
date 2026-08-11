@@ -48,8 +48,9 @@ Files are named using the problem number and short title, e.g.:
 | Aug 8 | A - Mishka and Game | ✅ Accepted |
 | Aug 9 | A - Creating Words | ✅ Accepted |
 | Aug 10 | A - A+B? | ✅ Accepted |
+| Aug 11 | A - Ultra Fast Mathematician | ✅ Accepted |
 
-**Total solved: 31**
+**Total solved: 32**
 
 ## Notes
 - Language: Java 21
