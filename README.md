@@ -49,8 +49,9 @@ Files are named using the problem number and short title, e.g.:
 | Aug 9 | A - Creating Words | ✅ Accepted |
 | Aug 10 | A - A+B? | ✅ Accepted |
 | Aug 11 | A - Ultra Fast Mathematician | ✅ Accepted |
+| Aug 12 | A- To my Critics | ✅ Accepted |
 
-**Total solved: 32**
+**Total solved: 33**
 
 ## Notes
 - Language: Java 21
