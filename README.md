@@ -52,7 +52,7 @@ Files are named using the problem number and short title, e.g.:
 | Aug 12 | A - To my Critics | ✅ Accepted |
 | Aug 13 | A - Word | ✅ Accepted |
 
-**Total solved: 34**
+**Total solved: 33**
 
 ## Notes
 - Language: Java 21
