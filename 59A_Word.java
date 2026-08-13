@@ -1,28 +1,26 @@
 import java.util.*;
 
 public class Main {
-    public static void main(String args[]) {
-        Scanner sc = new Scanner(System.in);
+  public static void main(String args[]) {
+    Scanner sc = new Scanner(System.in);
+      String s = sc.nextLine();
+      
+      int count = 0, count1 = 0;
 
-        String a = sc.nextLine();
-        int count = 0;
-        int count1 = 0;
-
-        for(int i = 0; i < a.length(); i++) {
-            if(Character.isUpperCase(a.charAt(i))) {
-                count++;
-            }
-            if(Character.isLowerCase(a.charAt(i))) {
-                count1++;
-            }
-            
-        }
-        if(count > count1) {
-            System.out.println(a.toUpperCase());
+      for(int i = 0; i < s.length(); i++) {
+        char c = s.charAt(i);
+        if(Character.isUpperCase(c)) {
+          count++;
         }
         else {
-            System.out.println(a.toLowerCase());
+          count1++;
         }
-        
+      }
+      if(count > count1) {
+        System.out.println(s.toUpperCase());
+      }
+      else {
+        System.out.println(s.toLowerCase());
+      }
     }
-}
+ }
