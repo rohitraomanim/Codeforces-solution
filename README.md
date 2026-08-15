@@ -52,8 +52,9 @@ Files are named using the problem number and short title, e.g.:
 | Aug 12 | A - To my Critics | ✅ Accepted |
 | Aug 13 | A - Word | ✅ Accepted |
 | Aug 14 | A - Helpful Maths | ✅ Accepted |
+| Aug 15 | A - Soldier and Bananas | ✅ Accepted |
 
-**Total solved: 34**
+**Total solved: 35**
 
 ## Notes
 - Language: Java 21
