@@ -56,8 +56,9 @@ Files are named using the problem number and short title, e.g.:
 | Aug 16 | A - Odd One Out | ✅ Accepted |
 | Aug 17 | A - Soft Drinking | ✅ Accepted |
 | Aug 18 | A - Buttons | ✅ Accepted |
+| Aug 19 | A - George and Acommodation | ✅ Accepted |
 
-**Total solved: 38**
+**Total solved: 39**
 
 ## Notes
 - Language: Java 21
