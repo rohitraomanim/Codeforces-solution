@@ -57,8 +57,9 @@ Files are named using the problem number and short title, e.g.:
 | Aug 17 | A - Soft Drinking | ✅ Accepted |
 | Aug 18 | A - Buttons | ✅ Accepted |
 | Aug 19 | A - George and Acommodation | ✅ Accepted |
+| Aug 20 | A - Divisibility | ✅ Accepted |
 
-**Total solved: 39**
+**Total solved: 40**
 
 ## Notes
 - Language: Java 21
