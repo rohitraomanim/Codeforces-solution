@@ -60,8 +60,9 @@ Files are named using the problem number and short title, e.g.:
 | Aug 20 | A - Divisibility | ✅ Accepted |
 | Aug 21 | A - Square? | ✅ Accepted |
 | Aug 22 | A - Pangram | ✅ Accepted |
+| Aug 23 | A - Trippi Troppi | ✅ Accepted |
 
-**Total solved: 42**
+**Total solved: 43**
 
 ## Notes
 - Language: Java 21
