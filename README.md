@@ -61,8 +61,9 @@ Files are named using the problem number and short title, e.g.:
 | Aug 21 | A - Square? | ✅ Accepted |
 | Aug 22 | A - Pangram | ✅ Accepted |
 | Aug 23 | A - Trippi Troppi | ✅ Accepted |
+| Aug 24 | A - Plus One On the Subset | ✅ Accepted |
 
-**Total solved: 43**
+**Total solved: 44**
 
 ## Notes
 - Language: Java 21
