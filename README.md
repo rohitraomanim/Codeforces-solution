@@ -62,8 +62,9 @@ Files are named using the problem number and short title, e.g.:
 | Aug 22 | A - Pangram | ✅ Accepted |
 | Aug 23 | A - Trippi Troppi | ✅ Accepted |
 | Aug 24 | A - Plus One On the Subset | ✅ Accepted |
+| Aug 25 | B - Maximum Multiple Sum | ✅ Accepted |
 
-**Total solved: 44**
+**Total solved: 45**
 
 ## Notes
 - Language: Java 21
