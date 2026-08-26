@@ -6,13 +6,6 @@ Daily Codeforces problem solutions, written in Java, as part of my competitive c
 
 Solving one problem every day, starting from beginner-level (rating 800) and working my way up. Each solution is written and understood independently before being uploaded here.
 
-## Structure
-
-Files are named using the problem number and short title, e.g.:
-4A_Watermelon.java
-158A_NextRound.java
-110A_NearlyLuckyNumber.java
-
 ## Progress Log
 
 | Date | Problem | Status |
@@ -63,13 +56,11 @@ Files are named using the problem number and short title, e.g.:
 | Aug 23 | A - Trippi Troppi | ✅ Accepted |
 | Aug 24 | A - Plus One On the Subset | ✅ Accepted |
 | Aug 25 | B - Maximum Multiple Sum | ✅ Accepted |
+| Aug 26 | B - Colourblindness | ✅ Accepted |
 
-**Total solved: 45**
+**Total solved: 46**
 
 ## Notes
-- Language: Java 21
-- Focus: understanding core logic before optimizing
-- Practicing daily as assigned coursework
 - Language: Java 21
 - Focus: understanding core logic before optimizing
 - Practicing daily as assigned coursework
