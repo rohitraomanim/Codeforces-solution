@@ -58,8 +58,9 @@ Solving one problem every day, starting from beginner-level (rating 800) and wor
 | Aug 25 | B - Maximum Multiple Sum | ✅ Accepted |
 | Aug 26 | B - Colourblindness | ✅ Accepted |
 | Aug 27 | A - Brain's Photos | ✅ Accepted |
+| Aug 28 | A - Floor Number | ✅ Accepted |
 
-**Total solved: 47**
+**Total solved: 48**
 
 ## Notes
 - Language: Java 21
