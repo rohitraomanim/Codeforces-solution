@@ -60,8 +60,9 @@ Solving one problem every day, starting from beginner-level (rating 800) and wor
 | Aug 27 | A - Brain's Photos | ✅ Accepted |
 | Aug 28 | A - Floor Number | ✅ Accepted |
 | Aug 29 | C - Word on the Number | ✅ Accepted |
+| Aug 30 | A - Yogurt Sale | ✅ Accepted |
 
-**Total solved: 49**
+**Total solved: 50**
 
 ## Notes
 - Language: Java 21
