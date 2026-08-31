@@ -61,8 +61,9 @@ Solving one problem every day, starting from beginner-level (rating 800) and wor
 | Aug 28 | A - Floor Number | ✅ Accepted |
 | Aug 29 | C - Word on the Number | ✅ Accepted |
 | Aug 30 | A - Yogurt Sale | ✅ Accepted |
+| Aug 31 | B - Normal Problem | ✅ Accepted |
 
-**Total solved: 50**
+**Total solved: 51**
 
 ## Notes
 - Language: Java 21
