@@ -64,8 +64,9 @@ Solving one problem every day, starting from beginner-level (rating 800) and wor
 | Aug 31 | B - Normal Problem | ✅ Accepted |
 | Sep 1 | A - My First Sorting Problem | ✅ Accepted |
 | Sep 1 | B - Fair Division | ✅ Accepted |
+| Sep 2 | A - Collecting Coins | ✅ Accepted |
 
-**Total solved: 53**
+**Total solved: 54**
 
 ## Notes
 - Language: Java 21
