@@ -66,8 +66,9 @@ Solving one problem every day, starting from beginner-level (rating 800) and wor
 | Sep 1 | B - Fair Division | ✅ Accepted |
 | Sep 2 | A - Collecting Coins | ✅ Accepted |
 | Sep 3 | A - Extremely Round | ✅ Accepted |
+| Sep 4 | A - Array with Odd Sum | ✅ Accepted |
 
-**Total solved: 55**
+**Total solved: 56**
 
 ## Notes
 - Language: Java 21
