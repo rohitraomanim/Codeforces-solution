@@ -67,8 +67,9 @@ Solving one problem every day, starting from beginner-level (rating 800) and wor
 | Sep 2 | A - Collecting Coins | ✅ Accepted |
 | Sep 3 | A - Extremely Round | ✅ Accepted |
 | Sep 4 | A - Array with Odd Sum | ✅ Accepted |
+| Sep 5 | A - Don't try to count | ✅ Accepted |
 
-**Total solved: 56**
+**Total solved: 57**
 
 ## Notes
 - Language: Java 21
