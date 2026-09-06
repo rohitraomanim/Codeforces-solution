@@ -68,8 +68,9 @@ Solving one problem every day, starting from beginner-level (rating 800) and wor
 | Sep 3 | A - Extremely Round | ✅ Accepted |
 | Sep 4 | A - Array with Odd Sum | ✅ Accepted |
 | Sep 5 | A - Don't try to count | ✅ Accepted |
+| Sep 6 | B - Drinks | ✅ Accepted |
 
-**Total solved: 57**
+**Total solved: 58**
 
 ## Notes
 - Language: Java 21
