@@ -69,8 +69,9 @@ Solving one problem every day, starting from beginner-level (rating 800) and wor
 | Sep 4 | A - Array with Odd Sum | ✅ Accepted |
 | Sep 5 | A - Don't try to count | ✅ Accepted |
 | Sep 6 | B - Drinks | ✅ Accepted |
+| Sep 7 | A - Stones on the Table | ✅ Accepted |
 
-**Total solved: 58**
+**Total solved: 59**
 
 ## Notes
 - Language: Java 21
