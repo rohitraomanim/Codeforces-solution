@@ -70,8 +70,9 @@ Solving one problem every day, starting from beginner-level (rating 800) and wor
 | Sep 5 | A - Don't try to count | ✅ Accepted |
 | Sep 6 | B - Drinks | ✅ Accepted |
 | Sep 7 | A - Stones on the Table | ✅ Accepted |
+| Sep 8 | A - Candies and Two Sisters | ✅ Accepted |
 
-**Total solved: 59**
+**Total solved: 60**
 
 ## Notes
 - Language: Java 21
