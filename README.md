@@ -71,8 +71,9 @@ Solving one problem every day, starting from beginner-level (rating 800) and wor
 | Sep 6 | B - Drinks | ✅ Accepted |
 | Sep 7 | A - Stones on the Table | ✅ Accepted |
 | Sep 8 | A - Candies and Two Sisters | ✅ Accepted |
+| Sep 9 | A - Elephant | ✅ Accepted |
 
-**Total solved: 60**
+**Total solved: 61**
 
 ## Notes
 - Language: Java 21
