@@ -73,8 +73,9 @@ Solving one problem every day, starting from beginner-level (rating 800) and wor
 | Sep 8 | A - Candies and Two Sisters | ✅ Accepted |
 | Sep 9 | A - Elephant | ✅ Accepted |
 | Sep 10 | A - Tram | ✅ Accepted |
+| Sep 11 | A - Magnets | ✅ Accepted |
 
-**Total solved: 62**
+**Total solved: 63**
 
 ## Notes
 - Language: Java 21
