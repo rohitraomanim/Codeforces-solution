@@ -74,9 +74,10 @@ Solving one problem every day, starting from beginner-level (rating 800) and wor
 | Sep 9 | A - Elephant | ✅ Accepted |
 | Sep 10 | A - Tram | ✅ Accepted |
 | Sep 11 | A - Magnets | ✅ Accepted |
-| Sep 12 | A - Is Your Horseshoes on the Roof | ✅ Accepted
+| Sep 12 | A - Is Your Horseshoes on the Roof | ✅ Accepted |
+| Sep 14 | A - Hulk | ✅ Accepted |
 
-**Total solved: 64**
+**Total solved: 65**
 
 ## Notes
 - Language: Java 21
