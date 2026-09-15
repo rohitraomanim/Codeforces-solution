@@ -76,8 +76,9 @@ Solving one problem every day, starting from beginner-level (rating 800) and wor
 | Sep 11 | A - Magnets | ✅ Accepted |
 | Sep 12 | A - Is Your Horseshoes on the Roof | ✅ Accepted |
 | Sep 14 | A - Hulk | ✅ Accepted |
+| Sep 15 | A - Fox and Snake | ✅ Accepted |
 
-**Total solved: 65**
+**Total solved: 66**
 
 ## Notes
 - Language: Java 21
