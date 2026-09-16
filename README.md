@@ -77,8 +77,9 @@ Solving one problem every day, starting from beginner-level (rating 800) and wor
 | Sep 12 | A - Is Your Horseshoes on the Roof | ✅ Accepted |
 | Sep 14 | A - Hulk | ✅ Accepted |
 | Sep 15 | A - Fox and Snake | ✅ Accepted |
+| Sep 16 | A - Game with Integers | ✅ Accepted |
 
-**Total solved: 66**
+**Total solved: 67**
 
 ## Notes
 - Language: Java 21
